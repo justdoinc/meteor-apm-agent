@@ -3,6 +3,10 @@
 
 [![APM - Performance Monitoring for Meteor Apps on Galaxy](https://s3.amazonaws.com/dev-apm-screenshots/meteor-apm-agent/README-2.png)](https://www.meteor.com/hosting)
 
+# JustDo changes:
+
+* Avoid attempt to auto-connect using environmental variables.
+
 ### Getting started
 
 1. If you don't already have a Galaxy account, sign up [here](https://www.meteor.com/hosting).
