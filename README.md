@@ -6,6 +6,8 @@
 # JustDo changes:
 
 * Avoid attempt to auto-connect using environmental variables.
+* Check whether or not process.env.KADIRA_ENABLED === "true" before instrumentation, to allow better control
+on whether or not to enable Kadira using environmental variables.
 
 ### Getting started
 
